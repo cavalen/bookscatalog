@@ -5,7 +5,7 @@ Usage:
 
 - git clone https://github.com/ehc-io/bookscatalog.git 
 - cd ./bookscatalog
-- sudo docker-compose up
+- sudo docker-compose up -d
 
 API listens on port 3000  
 Mongodb listens on port 27017  
